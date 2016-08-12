@@ -1,0 +1,285 @@
+node 0 is the global source
+node 3 is a sink
+node 5 is a source
+node 7 is a source
+node 9 is a sink
+node 12 is a sink
+node 17 is a sink
+node 29 is a sink
+node 30 is a sink
+node 35 is a sink
+node 40 is a sink
+node 41 is a sink
+node 46 is a sink
+node 63 is a sink
+node 71 is a sink
+node 72 is a sink
+node 73 is a sink
+node 74 is a sink
+node 76 is a sink
+node 80 is a sink
+node 81 is a sink
+node 85 is a sink
+node 91 is a sink
+node 100 is a sink
+node 101 is a sink
+node 102 is a sink
+node 104 is a sink
+node 105 is a sink
+node 106 is a sink
+node 108 is a source
+node 111 is a sink
+node 119 is a source
+node 120 is a source
+node 135 is a sink
+node 140 is a source
+node 141 is a sink
+node 155 is a sink
+node 156 is a source
+node 162 is a sink
+node 173 is a sink
+node 185 is a sink
+node 189 is a source
+node 190 is a sink
+node 192 is a sink
+node 193 is a sink
+node 196 is a sink
+node 197 is a sink
+node 198 is a sink
+node 201 is a sink
+node 207 is a sink
+node 208 is a sink
+node 228 is a source
+node 229 is a sink
+node 245 is a sink
+node 247 is a sink
+node 248 is a sink
+node 250 is a sink
+node 251 is a sink
+node 252 is a sink
+node 253 is a source
+node 264 is a sink
+node 265 is a sink
+node 266 is a sink
+node 267 is a sink
+node 268 is a sink
+node 269 is a sink
+node 270 is a sink
+node 271 is a sink
+node 272 is a sink
+node 273 is a sink
+node 274 is a sink
+node 275 is a sink
+node 276 is a sink
+node 277 is a sink
+node 278 is a sink
+node 279 is a sink
+node 280 is a sink
+node 281 is a sink
+node 286 is a sink
+node 287 is a sink
+node 288 is a sink
+node 291 is a source
+node 292 is a sink
+node 293 is a source
+node 299 is a sink
+node 300 is a sink
+node 301 is a sink
+node 302 is a sink
+node 303 is a source
+node 304 is a sink
+node 322 is a sink
+node 329 is a sink
+node 337 is a sink
+node 338 is a sink
+node 342 is a sink
+node 352 is a sink
+node 354 is a sink
+node 356 is a sink
+node 359 is a sink
+node 360 is a sink
+node 364 is a sink
+node 368 is a sink
+node 372 is a sink
+node 380 is a source
+node 387 is a sink
+node 389 is a sink
+node 391 is a sink
+node 392 is a source
+node 393 is a source
+node 394 is a source
+node 395 is a source
+node 401 is a sink
+node 406 is a sink
+node 409 is a sink
+node 411 is a sink
+node 413 is a sink
+node 414 is a sink
+node 415 is a sink
+node 416 is a sink
+node 424 is a sink
+node 425 is a sink
+node 433 is a sink
+node 442 is a sink
+node 447 is a sink
+node 457 is a sink
+node 465 is a source
+node 468 is a sink
+node 475 is a sink
+node 477 is a source
+node 478 is a sink
+node 479 is a sink
+node 480 is a sink
+node 485 is a sink
+node 495 is a sink
+node 500 is a sink
+node 502 is a sink
+node 505 is a sink
+node 507 is a sink
+node 513 is the global sink
+The maximum possible flow is 2354
+
+
+Node 36 	(BRCA1)	Score: 349.14	Flow: 253
+Node 290 	(MYC)	Score: 133.4	Flow: 50
+Node 115 	(E2F1)	Score: 124.899	Flow: 93
+Node 484 	(TP53)	Score: 120.06	Flow: 69
+Node 384 	(RBBP8)	Score: 63.597	Flow: 43
+Node 10 	(AGAP2)	Score: 61.05	Flow: 30
+Node 136 	(ESR1)	Score: 60.69	Flow: 30
+Node 20 	(ATM)	Score: 59.514	Flow: 39
+Node 66 	(CDK4)	Score: 56.92	Flow: 40
+Node 260 	(MAX)	Score: 56.76	Flow: 20
+Node 172 	(GNG2)	Score: 54.72	Flow: 30
+Node 382 	(RB1)	Score: 52.41	Flow: 30
+Node 195 	(HSP90AA1)	Score: 50.64	Flow: 30
+Node 65 	(CDK2)	Score: 50.46	Flow: 30
+Node 97 	(CXCR2)	Score: 50.43	Flow: 30
+
+For Nodes that have flow going through them, and are neither sources nor sinks:
+Flow	|	MFlow w/o Node	|	Score	|	Disrupt	|	Node
+253	|	2281.00		|	349.14	|	3.10%	|	BRCA1
+93	|	2291.00		|	124.90	|	2.68%	|	E2F1
+69	|	2314.00		|	120.06	|	1.70%	|	TP53
+50	|	2304.00		|	133.40	|	2.12%	|	MYC
+43	|	2311.00		|	63.60	|	1.83%	|	RBBP8
+40	|	2334.00		|	56.92	|	0.85%	|	CDK4
+39	|	2334.00		|	59.51	|	0.85%	|	ATM
+33	|	2321.00		|	46.53	|	1.40%	|	RBBP4
+30	|	2354.00		|	42.42	|	0.00%	|	AATF
+30	|	2334.00		|	61.05	|	0.85%	|	AGAP2
+30	|	2334.00		|	43.02	|	0.85%	|	AKT1
+30	|	2324.00		|	49.23	|	1.27%	|	CCL11
+30	|	2344.00		|	34.02	|	0.42%	|	CCND1
+30	|	2344.00		|	50.46	|	0.42%	|	CDK2
+30	|	2324.00		|	49.23	|	1.27%	|	CXCL10
+30	|	2324.00		|	49.23	|	1.27%	|	CXCL11
+30	|	2324.00		|	49.23	|	1.27%	|	CXCL13
+30	|	2324.00		|	49.23	|	1.27%	|	CXCL9
+30	|	2324.00		|	49.23	|	1.27%	|	CXCR1
+30	|	2324.00		|	50.43	|	1.27%	|	CXCR2
+30	|	2324.00		|	49.23	|	1.27%	|	CXCR3
+30	|	2324.00		|	49.23	|	1.27%	|	CXCR3-3
+30	|	2324.00		|	60.69	|	1.27%	|	ESR1
+30	|	2334.00		|	45.60	|	0.85%	|	FKBP5
+30	|	2324.00		|	50.43	|	1.27%	|	GNA12
+30	|	2324.00		|	49.23	|	1.27%	|	GNA13
+30	|	2324.00		|	50.43	|	1.27%	|	GNA14
+30	|	2324.00		|	50.43	|	1.27%	|	GNA15
+30	|	2324.00		|	50.43	|	1.27%	|	GNAI2
+30	|	2324.00		|	54.72	|	1.27%	|	GNG2
+30	|	2324.00		|	50.64	|	1.27%	|	HSP90AA1
+30	|	2324.00		|	50.43	|	1.27%	|	IL8
+30	|	2324.00		|	38.10	|	1.27%	|	MDM2
+30	|	2324.00		|	49.53	|	1.27%	|	O75228
+30	|	2344.00		|	44.55	|	0.42%	|	PML
+30	|	2334.00		|	52.41	|	0.85%	|	RB1
+30	|	2324.00		|	40.68	|	1.27%	|	SIRT1
+30	|	2324.00		|	49.53	|	1.27%	|	TBXA2R-2
+30	|	2324.00		|	49.23	|	1.27%	|	TGM2
+29	|	2344.00		|	38.28	|	0.42%	|	BARD1
+21	|	2334.00		|	29.40	|	0.85%	|	RPA1
+20	|	2334.00		|	25.40	|	0.85%	|	BRCA2
+20	|	2334.00		|	44.72	|	0.85%	|	CD19
+20	|	2334.00		|	24.60	|	0.85%	|	DMC1
+20	|	2334.00		|	22.00	|	0.85%	|	EDNRA
+20	|	2334.00		|	44.72	|	0.85%	|	EPB41L1
+20	|	2334.00		|	30.40	|	0.85%	|	FKBP4
+20	|	2334.00		|	21.20	|	0.85%	|	FOXO3
+20	|	2334.00		|	20.60	|	0.85%	|	FOXO4
+20	|	2354.00		|	22.88	|	0.00%	|	G1/S transition of mitotic cell cycle (abstract)
+20	|	2334.00		|	45.92	|	0.85%	|	GAB1
+20	|	2334.00		|	25.00	|	0.85%	|	H2AFX
+20	|	2334.00		|	36.24	|	0.85%	|	HDAC3
+20	|	2334.00		|	25.28	|	0.85%	|	HIST1H4A
+20	|	2334.00		|	24.60	|	0.85%	|	HIST3H3
+20	|	2344.00		|	31.44	|	0.42%	|	KAT5
+20	|	2334.00		|	56.76	|	0.85%	|	MAX
+20	|	2334.00		|	33.14	|	0.85%	|	NFKB1
+20	|	2334.00		|	31.70	|	0.85%	|	NFKBIA
+20	|	2334.00		|	36.00	|	0.85%	|	NR3C1
+20	|	2334.00		|	42.52	|	0.85%	|	PIK3CA
+20	|	2334.00		|	45.52	|	0.85%	|	PIK3R1
+20	|	2334.00		|	24.36	|	0.85%	|	PLK3
+20	|	2334.00		|	44.72	|	0.85%	|	Q5VTR6
+20	|	2334.00		|	25.00	|	0.85%	|	RAD51
+20	|	2334.00		|	33.02	|	0.85%	|	RELA
+20	|	2334.00		|	28.00	|	0.85%	|	RPA2
+20	|	2334.00		|	27.80	|	0.85%	|	RPA3
+20	|	2334.00		|	23.62	|	0.85%	|	TP63
+19	|	2344.00		|	26.79	|	0.42%	|	ATR
+19	|	2335.00		|	21.09	|	0.81%	|	CDC6
+10	|	2344.00		|	13.36	|	0.42%	|	ANGPT1
+10	|	2344.00		|	10.10	|	0.42%	|	APAF1
+10	|	2344.00		|	17.00	|	0.42%	|	AR
+10	|	2344.00		|	15.94	|	0.42%	|	ATF2
+10	|	2344.00		|	13.22	|	0.42%	|	AURKA
+10	|	2344.00		|	10.20	|	0.42%	|	BAX
+10	|	2344.00		|	10.10	|	0.42%	|	BCL6
+10	|	2344.00		|	12.33	|	0.42%	|	CCNE1
+10	|	2344.00		|	10.10	|	0.42%	|	CDC25A
+10	|	2344.00		|	16.47	|	0.42%	|	CDK6
+10	|	2354.00		|	10.20	|	0.00%	|	cell proliferation (abstract)
+10	|	2344.00		|	11.30	|	0.42%	|	CHEK1
+10	|	2344.00		|	11.61	|	0.42%	|	EDN1
+10	|	2344.00		|	10.20	|	0.42%	|	EDN2
+10	|	2344.00		|	15.51	|	0.42%	|	EGFR
+10	|	2344.00		|	10.40	|	0.42%	|	EGR1
+10	|	2354.00		|	17.77	|	0.00%	|	EP300
+10	|	2344.00		|	10.90	|	0.42%	|	ERBB4
+10	|	2344.00		|	10.30	|	0.42%	|	ERBB4-3
+10	|	2344.00		|	10.30	|	0.42%	|	FAS
+10	|	2354.00		|	13.56	|	0.00%	|	FOXM1
+10	|	2344.00		|	10.70	|	0.42%	|	FOXO1
+10	|	2344.00		|	10.10	|	0.42%	|	GADD45A
+10	|	2344.00		|	10.50	|	0.42%	|	GATA3
+10	|	2344.00		|	10.33	|	0.42%	|	ID2
+10	|	2344.00		|	14.05	|	0.42%	|	IFNG
+10	|	2344.00		|	14.70	|	0.42%	|	IL12B
+10	|	2344.00		|	14.70	|	0.42%	|	IL12RB1
+10	|	2354.00		|	13.30	|	0.00%	|	IL4
+10	|	2344.00		|	13.00	|	0.42%	|	IL4R
+10	|	2344.00		|	18.46	|	0.42%	|	JAK2
+10	|	2344.00		|	13.08	|	0.42%	|	KAT2B
+10	|	2344.00		|	18.46	|	0.42%	|	LCK
+10	|	2344.00		|	15.65	|	0.42%	|	MAPK14
+10	|	2344.00		|	10.30	|	0.42%	|	MCM3
+10	|	2344.00		|	11.70	|	0.42%	|	MRE11A
+10	|	2344.00		|	11.70	|	0.42%	|	NBN
+10	|	2344.00		|	14.69	|	0.42%	|	NGFR
+10	|	2344.00		|	12.20	|	0.42%	|	NTRK1-2
+10	|	2344.00		|	12.11	|	0.42%	|	RBL1
+10	|	2354.00		|	11.40	|	0.00%	|	RPA4
+10	|	2354.00		|	14.17	|	0.00%	|	RUVBL1
+10	|	2344.00		|	10.56	|	0.42%	|	SFN
+10	|	2344.00		|	10.10	|	0.42%	|	SNAI2
+10	|	2344.00		|	11.73	|	0.42%	|	SORT1
+10	|	2344.00		|	14.17	|	0.42%	|	STAT4
+10	|	2344.00		|	13.92	|	0.42%	|	TERT
+10	|	2344.00		|	10.79	|	0.42%	|	T-helper 2 cell differentiation (abstract)
+10	|	2344.00		|	13.44	|	0.42%	|	TOPBP1
+10	|	2344.00		|	12.48	|	0.42%	|	TP63-2
+10	|	2344.00		|	14.45	|	0.42%	|	TP73
+10	|	2344.00		|	15.50	|	0.42%	|	TYK2
+3	|	2354.00		|	6.55	|	0.00%	|	HDAC1
+3	|	2354.00		|	3.60	|	0.00%	|	KDM1A

@@ -1,0 +1,512 @@
+AATF
+ABL1
+actin polymerization or depolymerization (abstract)
+ACTL6A
+ADAM17
+ADCY7
+ADRBK1
+AES
+AFP
+AGAP2
+AKT1
+ALDH9A1
+ANGPT1
+APAF1
+APH1A
+APH1B
+apoptosis (abstract)
+AR
+ATF2
+ATM
+ATR
+ATRIP
+AURKA
+AXIN2
+BAD
+BARD1
+BATF3
+BAX
+BBC3
+BCAT1
+BCL2
+BCL2L1
+BCL6
+BLM
+BMI1
+BRCA1
+BRCA2
+BTRC
+C4BPA
+CAD
+CASP7
+CAV1
+CBLB
+CBX4
+CCL11
+CCL5
+CCNA2
+CCND1
+CCND2
+CCND3
+CCNE1
+CD19
+CD247
+CD3D
+CD3E
+CD3G
+CD40
+CD40LG
+CD8A
+CD8B
+CDC25A
+CDC6
+CDCA7
+CDH1
+CDK2
+CDK4
+CDK6
+CDKN1A
+CDKN1B
+CDKN2A
+CDKN2B
+CEBPD
+cell cycle arrest (abstract)
+cell death (abstract)
+cell proliferation (abstract)
+cell survival (abstract)
+CFLAR
+CHEK1
+chromatin remodeling (abstract)
+CLU
+COL18A1
+COL1A2
+CREB1
+CREBBP
+CSDE1
+CSF2
+CSF2RA
+CSF2RB
+CTBP1
+CTNNB1
+CTSD
+CXCL10
+CXCL11
+CXCL13
+CXCL9
+CXCR1
+CXCR2
+CXCR3
+CXCR3-3
+DDIT3
+DDX18
+DHFR
+DKC1
+DKK1
+DLEU1 (rna)
+DLEU2 (rna)
+DMC1
+DNA damage (abstract)
+DNMT1
+DNMT3A
+DNTT
+DOK2
+DUSP1
+DVL3
+E2F1
+E2F2
+E2F3
+E2F4
+E2F6
+E2F7
+EBI3
+EDN1
+EDN2
+EDNRA
+EGFR
+EGR1
+ELF1
+ENO1
+EP300
+EPB41L1
+ERA-ERB
+ERBB4
+ERBB4-3
+ERK1-2-active
+erythrocyte differentiation (abstract)
+ESR1
+ETS1
+FAS
+FASLG
+FBXW7-4
+FDXR
+FKBP4
+FKBP5
+FOS
+FOSL1
+FOSL2
+FOXA1
+FOXA2
+FOXM1
+FOXM1-2
+FOXO1
+FOXO3
+FOXO4
+FOXP3
+FTH1
+G1 phase of mitotic cell cycle (abstract)
+G1/S transition of mitotic cell cycle (abstract)
+G2/M transition of mitotic cell cycle (abstract)
+GAB1
+GAB2
+GADD45A
+GAPDH
+GATA1
+GATA3
+GFI1
+GNA12
+GNA13
+GNA14
+GNA15
+GNAI2
+GNB2L1
+GNG2
+GPAM
+GSC
+GSK3B
+H2AFX
+HBP1
+HDAC1
+HDAC2
+HDAC3
+HES1
+HEY1
+HEY1-2
+HEY2
+HIC1
+HIST1H4A
+HIST3H3
+histone acetylation (abstract)
+histone deacetylase activity (abstract)
+histone methylation (abstract)
+HLA-DRA
+HMGA1
+HMGCS2
+HNF1A
+HSP90AA1
+HSPA1A
+HSPA4
+HSPD1
+HUS1
+HUWE1
+ICAM1
+ID2
+IFNG
+IKZF3
+IL12B
+IL12RB1
+IL13
+IL17A
+IL18
+IL18R1
+IL18RAP
+IL1RAP
+IL2
+IL23A
+IL23R
+IL27
+IL27RA
+IL2RA
+IL2RB
+IL2RG
+IL3
+IL4
+IL4R
+IL5
+IL6
+IL6ST
+IL8
+Ionizing Radiation (abstract)
+IREB2
+IRF1
+IRF8
+IRS2
+ITCH
+JAK1
+JAK2
+JAK3
+JNK family-active
+JUN
+JUNB
+JUND
+KAT2A
+KAT2B
+KAT5
+KDM1A
+KIR3DL1
+KLF4
+KLK3
+KRT5
+LCK
+LDHA
+LGALS1
+LIN28B
+LPAR1
+MAP2K1
+MAP2K4
+MAP3K1
+MAPK14
+MAPK8
+MAPK9
+MAX
+MCM3
+MDM2
+MEF2C
+MINA
+MIR141 (miRNA)
+MIR146A (miRNA)
+MIR17 (miRNA)
+MIR200A (miRNA)
+MIR22 (miRNA)
+MIR23B (miRNA)
+MIR26A1 (miRNA)
+MIR26A2 (miRNA)
+MIR26B (miRNA)
+MIR338 (miRNA)
+MIR34A (miRNA)
+MIR429 (miRNA)
+MIR9-3 (miRNA)
+MIRLET7G (miRNA)
+MMP1
+MMP2
+MMP9
+MND1
+MRE11A
+MSH4
+MSH5
+MTA1
+MTDH
+MXD4
+MYB
+MYC
+MYCBP
+MYCT1
+natural killer cell activation (abstract)
+NBN
+NCL
+NCOA3
+NCOR1
+NCSTN
+NDRG1
+NDRG2
+NDUFAF2
+negative regulation of cell growth (abstract)
+negative transcription elongation factor activity (abstract)
+neuron apoptosis (abstract)
+NF1
+NFAT1-c-4
+NFAT1-c-4-active
+NFATC2
+NFATC3
+NF kappa B
+NFKB1
+NFKBIA
+NFYA
+NFYB
+NFYC
+NGFR
+NLK
+NME1
+NME2
+NOS2
+NOTCH1
+NOTCH2
+NR3C1
+NRIP1
+NTRK1-2
+O60466
+O75228
+O75519
+ODC1
+ONECUT1
+ORC1
+P04229
+P04439
+p38alpha-beta-active
+PAK2
+PAWR
+PDCD10
+PEG10
+PELP1
+peptide
+PFDN5
+PFKM
+PIAS4
+PIK3CA
+PIK3CB
+PIK3CG
+PIK3R1
+PIK3R6
+PIM1
+PIN1
+PKA Family-active
+platelet aggregation (abstract)
+PLAU
+PLCB2
+PLK3
+PMAIP1
+PML
+PML-6
+POLA1
+positive regulation of anti-apoptosis (abstract)
+PPARG
+PPP2R4
+PPP2R5A
+PRDX3
+PRKCD
+PRKCE
+PRKCZ
+proteasomal ubiquitin-dependent protein catabolic process (abstract)
+PSEN1
+PSENEN
+PSMC3IP
+PTMA
+Q5VTR6
+Q8N726
+Q99653
+Q9BQR6
+RACO-1
+RAD1
+RAD51
+RAD51C
+RAD9A
+RB1
+RBBP4
+RBBP8
+RBL1
+RBPJ
+RCC1
+receptor internalization (abstract)
+regulation of nitric oxide biosynthetic process (abstract)
+RELA
+respiratory burst (abstract)
+response to hypoxia (abstract)
+response to oxidative stress (abstract)
+response to stress (abstract)
+response to UV (abstract)
+RET9
+RPA1
+RPA2
+RPA3
+RPA4
+rRNA transcription (abstract)
+RUNX2
+RUVBL1
+RUVBL2
+RYBP
+S100A7
+SAP18
+SAP30
+SELE
+SERPINE1
+SERPINI1
+SFN
+SFRP1
+SFXN3
+SGMS1
+SHMT1
+SIN3A
+SIN3B
+SIN3/HDAC complex/NCoR1
+SIRT1
+SKI
+SKIL
+SKP2
+SLC11A1
+SLC2A1
+SMAD2
+SMAD2-3-active
+SMAD3
+SMAD4
+SMARCA2
+SMARCA4
+SMARCC1
+SMPD1
+SNAI1
+SNAI2
+SOCS1
+SOCS3
+SORT1
+SP1
+SPEN
+SPI1
+Src Family Kinase-active
+STAM1-2-active
+STAT3
+STAT4
+STAT5A
+STAT5-active
+SUPT3H
+SUPT7L
+SUV39H1
+TAB2
+TADA2B
+TAF10
+TAF12
+TBXA2R-2
+T cell activation (abstract)
+T cell proliferation (abstract)
+TCF7L1
+TCF7L2
+TCR-alpha
+TCR-beta
+TDP2
+TEK
+TERT
+TEX15
+TFDP1
+TFDP2
+TFRC
+TGFA
+TGIF1
+TGM2
+T-helper 2 cell differentiation (abstract)
+TIAM1
+TJP2
+TK1
+TLE1
+T-Lymphocyte (abstract)
+TMEFF2
+TMEM126A
+TNFAIP3
+TNIK
+TOP3A
+TOPBP1
+TP53
+TP53I3
+TP63
+TP63-2
+TP63-3
+TP63-5
+TP63-6
+TP73
+TP73-2
+TP73-9
+TRAF1
+transcription from RNA polymerase III promoter (abstract)
+TRIM28
+TRIP6
+TRPV1
+TRRAP
+TSC2
+TXA2-R family-inactive
+TXN
+TYK2
+UBE3A
+ubiquitin-dependent protein catabolic process (abstract)
+UBQLN1
+UGCG
+VDR
+VTN
+YY1
+ZBTB17
+ZFPM1

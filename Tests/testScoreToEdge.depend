@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1467048922 source:/home/user/Desktop/AT Progs/testScoreToEdge/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<limits.h>
+	<string.h>
+	<queue>
+
+1467063421 source:/home/user/Desktop/AT Progs/testScoreToEdge3/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<limits.h>
+	<string.h>
+	<queue>
+
+1467065203 source:/home/user/Desktop/AT Progs/testScoreToEdge4(edge is the initial scores of the node that the edge comes from, score is the flow+0-10% for each edge, depending on the initial score of the connected node)/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<limits.h>
+	<string.h>
+	<queue>
+
+1467310169 source:/home/user/Desktop/AT Progs/copy of testScoreToEdge4(edge is the initial scores of the node that the edge comes from, score is the flow+0-10% for each edge, depending on the initial score of the connected node)/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<limits.h>
+	<string.h>
+	<queue>
+
+1467311062 source:/home/user/Desktop/AT Progs/testScoreToEdge4(now trying to do 100 random Networks for Josh)/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<limits.h>
+	<string.h>
+	<queue>
+
+1467412811 source:/home/user/Desktop/AT Progs/testScoreToEdge4(now trying to do 100 random Networks for Josh,trying to be automatic)/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<limits.h>
+	<string.h>
+	<queue>
+	<iomanip>
+
+1469046684 source:/home/user/Desktop/AT Progs/testScoreToEdge6(downstream=sinks, Upstream=sources, simplified output)/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<limits.h>
+	<string.h>
+	<queue>
+	<iomanip>
+
+1469641080 source:/home/user/Desktop/AT Progs/testScoreToEdge7(dynamically allocating memory, Superpathway was too big, getting seg fault)/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<limits.h>
+	<string.h>
+	<queue>
+	<iomanip>
+
+1470261752 source:/home/user/Desktop/AT Progs/testScoreToEdge8(doing 100 tries with random upstream and downstream and only getting the disruption for 51 pre-established nodes)/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<limits.h>
+	<string.h>
+	<queue>
+	<iomanip>
+

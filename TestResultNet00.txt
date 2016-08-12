@@ -1,0 +1,29 @@
+node 0 is the global source
+node 12 is a sink
+node 34 is a source
+node 46 is a source
+node 47 is a sink
+node 60 is the global sink
+The maximum possible flow is 369
+
+For Nodes that have flow going through them, and are neither sources or sinks:
+Flow	|	MFlow w/o Node	|	Score	|	Disrupt	|	Node
+61	|	326.00		|	81.37	|	11.65%	|	v
+46	|	369.00		|	68.08	|	0.00%	|	c
+43	|	369.00		|	48.42	|	0.00%	|	f
+43	|	326.00		|	53.32	|	11.65%	|	h
+43	|	326.00		|	54.52	|	11.65%	|	j
+43	|	369.00		|	60.84	|	0.00%	|	s
+43	|	369.00		|	69.44	|	0.00%	|	y
+43	|	326.00		|	52.93	|	11.65%	|	A
+43	|	326.00		|	58.01	|	11.65%	|	Q
+43	|	326.00		|	60.07	|	11.65%	|	Y
+43	|	326.00		|	66.44	|	11.65%	|	cc
+40	|	369.00		|	48.72	|	0.00%	|	I
+40	|	369.00		|	57.04	|	0.00%	|	ee
+36	|	369.00		|	45.29	|	0.00%	|	m
+36	|	369.00		|	42.88	|	0.00%	|	B
+25	|	369.00		|	33.88	|	0.00%	|	bb
+7	|	369.00		|	9.12	|	0.00%	|	O
+7	|	369.00		|	10.18	|	0.00%	|	P
+3	|	369.00		|	3.89	|	0.00%	|	N
