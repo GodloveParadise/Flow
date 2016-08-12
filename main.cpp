@@ -408,10 +408,6 @@ int main(int argc, char *argv[])
     }
 
 
-
-
-
-
     int **graph = new int*[V];
     int **fGraph= new int*[V];//*(*(graph + i) + j)
     for (size_t i = 0; i < V; i++) {
@@ -427,7 +423,6 @@ int main(int argc, char *argv[])
         }
 
     }
-
 
 
     bool NameFound=false;
@@ -468,7 +463,6 @@ int main(int argc, char *argv[])
             cout<<  aux << " 2is present in the Connections file, but is not present in the NodeNames"<<NameNumber[aux2]<< endl;
         }
     }
-
 
 
     int fArray[V];
@@ -561,8 +555,6 @@ int main(int argc, char *argv[])
     }
 
 
-
-
     for(int i=0; !InFile4.eof(); i++)
     {
         getline(InFile4, aux,'\t');
@@ -592,8 +584,6 @@ int main(int argc, char *argv[])
         NameFound=false;
         aux2=NumberOfNodes-2;
     }
-
-
 
 
     int sourceArrayReduced[NumberOfNodes];
@@ -659,4 +649,3 @@ int main(int argc, char *argv[])
     return 0;
 
 }
-
